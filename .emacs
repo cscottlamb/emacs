@@ -6,8 +6,12 @@
  '(ansi-color-names-vector
    ["#2e3436" "#a40000" "#4e9a06" "#c4a000" "#204a87" "#5c3566" "#729fcf" "#eeeeec"])
  '(custom-enabled-themes '(manoj-dark))
+ '(global-display-line-numbers-mode t)
+ '(indicate-buffer-boundaries 'left)
+ '(indicate-empty-lines t)
  '(save-place-mode t)
- '(show-paren-mode t))
+ '(show-paren-mode t)
+ '(tab-bar-mode t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
